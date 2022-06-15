@@ -1,1 +1,1 @@
-my first readme file
+This is a learning project
